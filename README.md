@@ -3,9 +3,6 @@
 # Alura Store - Análisis de Ventas y Rendimiento de Tiendas
 
 ## Descripción del Proyecto
-Hola, mi nombre es Wilfredo Rojas, instructor en Alura Latam. tienda vender para invertir en un nuevo negocio.  
-
-Para ello, evaluamos el desempeño de cuatro tiendas utilizando cinco aspectos clave:
 
 1. **Facturación total de cada tienda**: identificar cuál tienda vende más.  
 2. **Categorías más populares por tienda**: analizar los productos más vendidos.  
