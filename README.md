@@ -3,7 +3,7 @@
 # Alura Store - Análisis de Ventas y Rendimiento de Tiendas
 
 ## Descripción del Proyecto
-Hola, mi nombre es Wilfredo Rojas, instructor en Alura Latam. Este proyecto consiste en el **desafío Alura Store**, cuyo objetivo es ayudar al señor Juan a decidir qué tienda vender para invertir en un nuevo negocio.  
+Hola, mi nombre es Wilfredo Rojas, instructor en Alura Latam. tienda vender para invertir en un nuevo negocio.  
 
 Para ello, evaluamos el desempeño de cuatro tiendas utilizando cinco aspectos clave:
 
